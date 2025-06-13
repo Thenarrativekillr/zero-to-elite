@@ -1,2 +1,6 @@
-# zero-to-elite
-THEY SAID:   ❌ "You'll never learn to code"   ❌ "Self-taught devs aren't hireable"   ❌ "You don't have what it takes"    WATCH ME:   ✅ Daily commits since [start date]   ✅ 50x code repetition drills   ✅ Building a portfolio that forces recruiters to look    This is my public execution of every doubt.  
+# <img src="https://i.imgur.com/J7o5vD3.png" width="30"> ZERO TO ELITE: COMBAT LOG
+
+```python
+while they_were_doubting:
+    skills += 1
+    print(f"Day {commit_streak}: {len(executed_bugs)} bugs terminated")
